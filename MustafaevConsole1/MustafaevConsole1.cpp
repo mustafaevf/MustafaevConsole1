@@ -1,6 +1,12 @@
 ﻿#include <iostream>
 
+using namespace std;
+
 int main()
-{
-    std::cout << "Hello World!\n";
+{   
+    char sym;
+    cout << "Hello World!\n";
+    cout << "Enter symbol: ";
+    cin >> sym;
+    cout << "Result: " << sym;
 }
