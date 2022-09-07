@@ -6,7 +6,7 @@ int main()
 {   
     char sym;
     cout << "Hello World!\n";
-    cout << "Enter symbol: ";
+    cout << "Enter ";
     cin >> sym;
     cout << "Result: " << sym;
 }
