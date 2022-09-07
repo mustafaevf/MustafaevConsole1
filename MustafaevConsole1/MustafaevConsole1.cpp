@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {   
     char symbol;
-    cout << "Hello World!\n";
-    cout << "Enter ";
+    cout << "Hello World!" << endl;;
+    cout << "Enter: ";
     cin >> symbol;
     return 0;
 }
