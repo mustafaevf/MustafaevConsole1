@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {   
-    char sym;
+    char symbol;
     cout << "Hello World!\n";
     cout << "Enter ";
-    cin >> sym;
-    cout << "Result: " << sym;
+    cin >> symbol;
+    cout << "Result: " << symbol;
 }
