@@ -8,4 +8,5 @@ int main()
     cout << "Hello World!\n";
     cout << "Enter ";
     cin >> symbol;
+    return 0;
 }
